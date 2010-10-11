@@ -4,3 +4,4 @@ doc
 pkg
 *.gem
 driver.rb
+.idea/*

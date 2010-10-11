@@ -1,4 +1,5 @@
 require 'dropio/version'
+require 'active_support/json'
 
 module Dropio
   class Error < StandardError; end
